@@ -1,10 +1,10 @@
-# DIVE 2025 — 부산항 환적물동량 예측: 국가별 특화 지표 + 개별 모델
+# DIVE 2025 — 부산항 환적물동량 예측
 
 ![Cover slide (PDF 1page)](assets/cover.png)
 
 **행사**: DIVE 2025 (2nd Global Data Hackathon)  
 **주제**: 국가별 특화 지표를 활용한 부산항 환적 물동량(TEU) 예측  
-**결과**: 🏆 발제사 부문 **3위 (3rd Place)**  
+**결과**: 발제사 부문 **3위 (3rd Place)**  
 **팀 구성**: 팀장 **김진**, 팀원 **강경래**
 
 [📄 발표자료 PDF 보기](./DIVE2025_ver_fin.pdf)
